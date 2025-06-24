@@ -1,2 +1,5 @@
-# DSA-Striver-Sheet
-I am uploading Solution Of striver DSA sheet on this git daily
+# DSA Journey to Google 🚀
+This repository tracks my daily progress through Striver's DSA Sheet as part of my journey to land a top SDE role by 2026.
+## Day-wise Progress
+- ✅ Day 1: Two Sum, Best Time to Buy/Sell Stock, Kadane’s Algorithm
+- ✅ Day 2: Move Zeroes, Rotate Array, Merge Intervals
