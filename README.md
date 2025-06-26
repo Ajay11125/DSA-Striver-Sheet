@@ -4,3 +4,4 @@ This repository tracks my daily progress through Striver's DSA Sheet as part of 
 - ✅ Day 1: Two Sum, Best Time to Buy/Sell Stock, Kadane’s Algorithm
 - ✅ Day 2: Move Zeroes, Rotate Array, Merge Intervals
 - ✅ Day 3: LinkedList Cycle, Reverse LinkedList, Merge two sorted LinkedList
+- ✅ Day 4: Valid Parenthisis, Queue using stack, Next Greater element
