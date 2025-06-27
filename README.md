@@ -5,3 +5,4 @@ This repository tracks my daily progress through Striver's DSA Sheet as part of 
 - ✅ Day 2: Move Zeroes, Rotate Array, Merge Intervals
 - ✅ Day 3: LinkedList Cycle, Reverse LinkedList, Merge two sorted LinkedList
 - ✅ Day 4: Valid Parenthisis, Queue using stack, Next Greater element
+- ✅ Day 5: Daily Temperature, Stack using Queue, Evoluate Reverse Polish Notation
