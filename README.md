@@ -10,4 +10,5 @@ This repository tracks my daily progress through Striver's DSA Sheet as part of 
 - ✅ Day 7: stackMin, Stack using Queue 
 - ✅ Day 8: stackMin, Prefix Notation,Design Circular Queue
 - ✅ Day 9: Longest SubString Without repeat, Minimum subarray Sum
-- ✅ Day 10: container with most Water, Two sum II, Reverse String, Merge Sorted Array,remove Duplicate
+- ✅ Day 10:container with most Water, Two sum II, Reverse String, Merge Sorted Array,remove Duplicate
+- ✅ Day 11:Binary Search,Find peak Element,First Bad Version,Search In Rotated Array
